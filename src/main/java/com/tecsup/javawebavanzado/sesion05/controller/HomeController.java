@@ -1,4 +1,4 @@
-package com.tecsup.jwa_sesion05;
+package com.tecsup.javawebavanzado.sesion05.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
